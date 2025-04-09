@@ -9,8 +9,11 @@
 
 <div class="header">
     <h1>My GitHub Profile</h1>
-    <p> Ya krutoy specialist !</p>
+    
 </div>
 
 </body>
 </html>
+
+### 📈 GitHub Activity Graph:
+![Anurag's GitHub activity graph](https://activity-graph.herokuapp.com/graph?user
